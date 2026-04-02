@@ -1,6 +1,6 @@
-# Projet-Perso-D-couverte-terminal-Linux-Mac-OS- + Logiciel wireshark et nmap
-Découverte du terminal sur mac et interface sous linux
-prise de notes des commandes de bases
+# Decouverte_Wireshark_terminalMac
+Découverte du terminal Zsh sur Mac.
+prise de notes des commandes de bases:
 
 | **Commande**         | **Note / Explication**                              |
 | -------------------- | --------------------------------------------------- |
